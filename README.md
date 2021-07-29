@@ -12,3 +12,5 @@ https://steveb29.github.io/run-buddy/
 
 ## contribution
 Made with ❤️ by Steve
+
+### ©️2019 Run Buddy, Inc
