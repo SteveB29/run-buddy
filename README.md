@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy, Inc
 
 ## Purpose
 A Website that offers fitness training services.
@@ -13,4 +13,4 @@ https://steveb29.github.io/run-buddy/
 ## contribution
 Made with ❤️ by Steve
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
